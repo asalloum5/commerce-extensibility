@@ -83,6 +83,10 @@ module.exports = [
         title: "Shipping API reference",
         path: "/starter-kit/checkout/shipping-reference/",
       },
+      {
+        title: "Shipping method extension tutorial",
+        path: "https://experienceleague-review.corp.adobe.com/docs/commerce/cloud-service/tutorials/shipping-method-extension.html"
+      },
     ],
   },
   {
@@ -105,6 +109,6 @@ module.exports = [
         title: "Tax API reference",
         path: "/starter-kit/checkout/tax-reference/",
       },
-    ],
+    ]
   },
 ];

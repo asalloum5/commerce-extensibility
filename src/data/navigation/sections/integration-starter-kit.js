@@ -120,6 +120,10 @@ module.exports = [
         path: "/starter-kit/integration/contact-us.md",
         pages: [
             {
+                title: "Ratings extension tutorial",
+                path: "https://experienceleague-review.corp.adobe.com/docs/commerce/cloud-service/tutorials/ratings-extension.html"
+            },
+            {
                 title: "App Builder Tutorials",
                 path: "https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder"
             },
