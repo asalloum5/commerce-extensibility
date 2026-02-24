@@ -85,7 +85,7 @@ module.exports = [
       },
       {
         title: "Shipping method extension tutorial",
-        path: "https://experienceleague-review.corp.adobe.com/docs/commerce/cloud-service/tutorials/shipping-method-extension.html"
+        path: "https://experienceleague.adobe.com/docs/commerce/cloud-service/tutorials/shipping-method-extension.html"
       },
     ],
   },
