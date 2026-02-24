@@ -109,6 +109,6 @@ module.exports = [
         title: "Tax API reference",
         path: "/starter-kit/checkout/tax-reference/",
       },
-    ]
+    ],
   },
 ];
