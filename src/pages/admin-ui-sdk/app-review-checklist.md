@@ -26,3 +26,4 @@ Main page requiring shared data | If the main page requires data from the [share
 Mandatory config files | The application has `extension-manifest.json` and `install.yaml` [files](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/app-registration/#add-or-update-the-installyml-file). The `install.yaml` file references the `commerce/backend-ui/1` extension point.|Required
 Registration runtime action | Registration runtime action is correctly coded to return the Admin UI SDK registration based on the available [extension points](./extension-points/index.md). | Preferred
 Local testing files | `server.js`, `key.pem`, and `cert.pem` files for [local testing](./configuration.md#local-testing) are not included in the app submission. | Required
+Usage of `innerHtml` | The use of `innerHTML` within the SPA is prohibited to prevent potential cross‑site scripting (XSS) vulnerabilities. | Required
